@@ -39,3 +39,9 @@ Blogs:
 Papers:
 - [Efficiently Compiling Efficient Query Plans for Modern Hardware](https://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
 - [Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](http://www.vldb.org/pvldb/vol11/p2209-kersten.pdf)
+
+### Join
+
+Papers:
+- [Performance and Scalability of Broadcast in Spark](https://www.mosharaf.com/wp-content/uploads/mosharaf-spark-bc-report-spring10.pdf)
+
