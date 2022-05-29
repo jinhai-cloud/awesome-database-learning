@@ -1,6 +1,8 @@
 # Awesome Database Learning
 
-A curated reading list about database systems. Inspired by [pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning).
+A curated reading list about database systems, inspired by:
+- [pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
+- [数据库学习资料](https://blog.bcmeng.com/post/database-learning.html)
 
 ## Query Optimizer
 
