@@ -26,6 +26,10 @@ Blogs:
 Blogs:
 - [SQL 窗口函数的优化和执行](https://zhuanlan.zhihu.com/p/80051518)
 
+Papers:
+- [Efficient Processing of Window Functions in Analytical SQL Queries](http://www.vldb.org/pvldb/vol8/p1058-leis.pdf)
+- [Optimization of Analytic Window Functions](http://vldb.org/pvldb/vol5/p1244_yucao_vldb2012.pdf)
+
 
 ## Query Execution
 
