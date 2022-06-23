@@ -3,6 +3,7 @@
 A curated reading list about database systems, inspired by:
 - [pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
 - [编程小梦 / 数据库学习资料](https://blog.bcmeng.com/post/database-learning.html)
+- [CMU Database Courses](https://db.cs.cmu.edu/courses/)
 
 ## Query Optimizer
 
