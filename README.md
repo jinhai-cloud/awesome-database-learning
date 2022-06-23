@@ -14,6 +14,12 @@ Blogs:
 Blogs:
 - [SQL 查询优化原理与 Volcano Optimizer 介绍](https://zhuanlan.zhihu.com/p/48735419)
 
+Papers:
+- [The Volcano Optimizer Generator: Extensibility and Efficient Search](https://15721.courses.cs.cmu.edu/spring2020/papers/19-optimizer1/graefe-icde1993.pdf)
+- [The Cascades Framework for Query Optimization](https://15721.courses.cs.cmu.edu/spring2020/papers/19-optimizer1/graefe-ieee1995.pdf)
+- [Efficiency in the Columbia Database Query Optimizer](https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/xu-columbia-thesis1998.pdf)
+- [Orca: A Modular Query Optimizer Architecture for Big Data](https://15721.courses.cs.cmu.edu/spring2020/papers/19-optimizer1/p337-soliman.pdf)
+
 ### Subquery
 
 Blogs:
@@ -43,7 +49,7 @@ Blogs:
 - [查询编译](https://zhuanlan.zhihu.com/p/58249033)
 
 Papers:
-- [Vectorization vs Compilation in Query Execution](https://15721.courses.cs.cmu.edu/spring2016/papers/p5-sompolski.pdf)
+- [Vectorization vs Compilation in Query Execution](https://15721.courses.cs.cmu.edu/spring2020/papers/16-vectorization2/p5-sompolski.pdf)
 - [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf)
 - [Efficiently Compiling Efficient Query Plans for Modern Hardware](https://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
 - [Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](http://www.vldb.org/pvldb/vol11/p2209-kersten.pdf)
