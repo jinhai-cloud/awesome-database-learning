@@ -57,6 +57,13 @@ Papers:
 
 ### Join
 
+Blogs:
+- [Join 查询优化](https://zhuanlan.zhihu.com/p/580164199)
+- [Join Reorder 源码解析](https://zhuanlan.zhihu.com/p/579978445)
+
 Papers:
 - [Performance and Scalability of Broadcast in Spark](https://www.mosharaf.com/wp-content/uploads/mosharaf-spark-bc-report-spring10.pdf)
+
+Courses:
+- [Join查询优化&HashJoin算子优化](https://www.bilibili.com/video/BV1bi4y1r7Td/)
 
