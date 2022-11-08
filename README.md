@@ -63,6 +63,7 @@ Blogs:
 
 Papers:
 - [Performance and Scalability of Broadcast in Spark](https://www.mosharaf.com/wp-content/uploads/mosharaf-spark-bc-report-spring10.pdf)
+- [SAHA: A String Adaptive Hash Table for Analytical Databases](https://www.mdpi.com/2076-3417/10/6/1915/htm)
 
 Courses:
 - [Join查询优化&HashJoin算子优化](https://www.bilibili.com/video/BV1bi4y1r7Td/)
