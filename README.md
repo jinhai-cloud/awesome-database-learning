@@ -63,6 +63,7 @@ Blogs:
 
 Papers:
 - [Performance and Scalability of Broadcast in Spark](https://www.mosharaf.com/wp-content/uploads/mosharaf-spark-bc-report-spring10.pdf)
+- [Adaptive Optimization of Very Large Join Queries](https://db.in.tum.de/~radke/papers/hugejoins.pdf)
 - [SAHA: A String Adaptive Hash Table for Analytical Databases](https://www.mdpi.com/2076-3417/10/6/1915/htm)
 
 Courses:
