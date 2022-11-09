@@ -68,4 +68,5 @@ Papers:
 
 Courses:
 - [Join查询优化&HashJoin算子优化](https://www.bilibili.com/video/BV1bi4y1r7Td/)
+- [How does Hash Join work in PostgreSQL and its derivates](https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2669/slides/226/2019_HashJoin_In_PostgreSQL_Milan.pdf)
 
