@@ -37,6 +37,11 @@ Papers:
 - [Efficient Processing of Window Functions in Analytical SQL Queries](http://www.vldb.org/pvldb/vol8/p1058-leis.pdf)
 - [Optimization of Analytic Window Functions](http://vldb.org/pvldb/vol5/p1244_yucao_vldb2012.pdf)
 
+### Common Table Expressions
+
+Papers:
+- [Optimization of Common Table Expressions in MPP Database Systems](http://www.vldb.org/pvldb/vol8/p1704-elhelw.pdf)
+
 
 ## Query Execution
 
